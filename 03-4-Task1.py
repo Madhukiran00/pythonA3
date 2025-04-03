@@ -15,7 +15,7 @@
 # print(f"No of upper letters present in string is :{count2}")
 #----------------------------------------------------------------------
 
-# str3="No of uPPer LeTteRs pResEnt in stRing"
+# str3="No of uPPer Case LeTteRs pResEnt in stRing"
 # count3=0
 # for i in str3:
 #     if i==i.upper() and i!=" ":
