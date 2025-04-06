@@ -12,7 +12,7 @@
 # for i in str2:
 #     if i.isupper():
 #         count2+=1
-# print(f"No of upper letters present in string is :{count2}")
+# print(f"No of upper letters present  in string is :{count2}")
 #----------------------------------------------------------------------
 
 # str3="No of uPPer Case LeTteRs pResEnt in stRing"
